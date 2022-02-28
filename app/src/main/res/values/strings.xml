@@ -1,3 +1,201 @@
 <resources>
-    <string name="app_name">fear</string>
+    <string name="app_name">Frost</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Frost</string>
+    <string name="nav_header_subtitle">Scouting App 2022</string>
+    <string name="nav_header_desc">Welcome to Frost</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_scouting">Scouting</string>
+
+    <string-array name="teams">
+        <item>701</item>
+        <item>0000</item>
+        <item>6845</item>
+        <item>9345</item>
+        <item>94533</item>
+        <item>360</item>
+        <item>975</item>
+    </string-array>
+
+    <!--pit home page strings :) -->
+    <string name="pitScoutingHeaderHome">Pit Scouting</string>
+    <string name="start_pit_scouting_button">start pit scouting!</string>
+    <!--pit active page strings :) -->
+    <string name="textView_title_activity_auto_match_fragment">AutoMatchFragmentActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="radioButton_autoYes">yes</string>
+    <string name="radioButton_autoNo">no</string>
+    <string name="checkbox_robotAutoTaxiing">taxiing</string>
+    <string name="checkbox_robotAutoHumanPlayer">human player</string>
+    <string name="checkbox_robotAutoUpperHub">upper hub</string>
+    <string name="checkbox_robotAutoLowerHub">lower hub</string>
+    <string name="radioButton_cargoYes">yes</string>
+    <string name="radioButton_cargoNo">no</string>
+    <string name="textview_autoQuestionsSection">Auto Questions</string>
+    <string name="textview_haveAutoQuestion">Do you have an auto?</string>
+    <string name="textview_robotAutoFunctionQuestion">What does your robot do if you do have an auto?</string>
+    <string name="textview_intakeCargoGroundQuestion">Can you intake cargo off of the ground?</string>
+    <string name="textview_humanPlayerAccuracyQuestion">If you have a human player, how accurate are they on a scale of 1-10? (10 being the best)</string>
+    <string name="textView_upperHubAmountQuestion">If you are shooting in the upper hub, how many?</string>
+    <string name="editText_upperHubAmount">type here</string>
+    <string name="textview_lowerHubAmountQuestion">If you are shooting in the lower hub, how many?</string>
+    <string name="editText_lowerHubAmount">type here</string>
+    <string name="textView_TeleopQuestionsSection">Tele-op Questions</string>
+    <string name="textView_ScoreEitherHubsQuestion">Can you score in the either of the hubs?</string>
+    <string name="radioButton_UpperHubScore">upper</string>
+    <string name="radioButton_LowerHubScore">lower</string>
+    <string name="radioButton_NeitherHubScore">neither</string>
+    <string name="radioButton_BothHubScore">both</string>
+    <string name="textView_BallHoldAmountQuestion">How many balls can you hold at once?</string>
+    <string name="editText_BallHoldAmount">type here</string>
+    <string name="textView_FieldWhereShootQuestion">Where from the field can you shoot? can you shoot from anywhere or do you have to be in a certain spot?</string>
+    <string name="editText_FieldWhereShoot">type here</string>
+    <string name="textView_defenseQuestion">Do you do defense?</string>
+    <string name="radioButton_yesDefense">yes</string>
+    <string name="radioButton_noDefense">no</string>
+    <string name="textView_rateDefenseQuestion">Rate defense on a scale of 1 - 10 (10 being the best)</string>
+    <string name="textView_ratingDefense">rating 0</string>
+    <string name="textView_endGameQuestionsSection">End Game Questions</string>
+    <string name="textView_robotClimbQuestion">Can your robot climb?</string>
+    <string name="radioButton_yesClimb">yes</string>
+    <string name="radioButton_noClimb">no</string>
+    <string name="textView_WhereStartingPointQuestion">Where is your starting point?</string>
+    <string name="radioButton_lowBarStarting">low bar</string>
+    <string name="radioButton_middleBarStarting">middle bar</string>
+    <string name="textView_HighestBarQuestion">What is the highest bar your robot can reach?</string>
+    <string name="radioButton_lowBarHighest">low bar</string>
+    <string name="radioButton_middleBarHighest">middle bar</string>
+    <string name="radioButton_highBarHighest">high bar</string>
+    <string name="radioButton_transversalBarHighest">transversal bar</string>
+    <string name="textView_consistentBarQuestion">What is the most consistent bar your robot can reach?</string>
+    <string name="radioButton_lowBarConsistent">low bar</string>
+    <string name="radioButton_middleBarConsistent">middle bar</string>
+    <string name="radioButton_highBarConsistent">high bar</string>
+    <string name="radioButton_transversalBarConsistent">transversal bar</string>
+    <string name="textView_useLaunchpadQuestion">Do you use the launchpad?</string>
+    <string name="radioButton_yesLaunchpad">yes</string>
+    <string name="radioButton_noLaunchpad">no</string>
+    <string name="textView_robotQuestionsSection">Robot Questions</string>
+    <string name="textView_openClosedChassisQuestion">Do you have an open or closed chassis?</string>
+    <string name="radioButton_openChassis">open</string>
+    <string name="radioButton_closedChassis">closed</string>
+    <string name="textView_openClosedBumperQuestion">Do you have an open or closed bumper?</string>
+    <string name="radioButton_openBumper">open</string>
+    <string name="RadioButton_closedBumper">closed</string>
+    <string name="textView_driveTrainQuestion">Drive train</string>
+    <string name="editText_driveTrain">type here</string>
+    <string name="textView_intakeQuestion">Intake</string>
+    <string name="editText_intake">type here</string>
+    <string name="textView_mechanismQuestion">Mechanism</string>
+    <string name="editText_mechanism">type here</string>
+    <string name="textView_programmingLanguageRobotQuestion">Programming language (robot)</string>
+    <string name="editText_programmingLanguageRobot">type here</string>
+    <string name="textView_ProgrammingLanguageAppQuestion">Programming language (app)</string>
+    <string name="editText_programmingLanguageApp">type here</string>
+    <string name="textView_climbingMechanismQuestion">Climbing mechanism</string>
+    <string name="editText_climbingMechanism">type here</string>
+    <string name="textView_accuracyRating">accuracy 0</string>
+    <string name="textView_shiftingGearboxQuestion">Do you use a shifting gearbox?</string>
+    <string name="radioButton_yesShiftingGearbox">yes</string>
+    <string name="radioButton_noShiftingGearbox">no</string>
+    <string name="textView_shiftingGearboxQuestions">What settings does your shifting gearbox have?</string>
+    <string name="editText_shiftingGearbox">type here</string>
+    <string name="button_save_pit_scouting">Finish Pit Scouting</string>
+
+    <!--match home page string-->
+    <string name="textView_matchNumber">Match</string>
+    <string name="textView_setup_matchHeader">Setup Match</string>
+    <string name="textView_teamScoutingQuestion">Select Team To Scout</string>
+    <string name="button_start_match_scouting">Start Match</string>
+    <string name="textView_selectMatch">Select Match</string>
+
+
+    <!--match auto page strings-->
+    <string name="textView_teamAuto">Team:</string>
+    <string name="textView_matchAuto">Match:</string>
+    <string name="textView_deviceAuto">Device:</string>
+    <string name="textView_upper_hubAutoHeader">Upper Hub</string>
+    <string name="textView_upperScoreAuto">Score</string>
+    <string name="textView_scoreQuestionAuto">Score</string>
+    <string name="checkBox_taxiing">Taxiing</string>
+    <string name="checkBox_humanPlayerUpper">Human Player Upper Hub</string>
+    <string name="checkBox_humanPlayerLower">Human Player Lower Hub</string>
+    <string name="checkBox_upper_hubAuto">Upper Hub</string>
+    <string name="checkBox_lower_hubAuto">Lower Hub</string>
+    <string name="textView_lower_hubAutoHeader">Lower Hub</string>
+    <string name="textView_lowerScoreAuto">Score</string>
+
+
+    <!--match tele page strings-->
+    <string name="TextView_teamTele">Team:</string>
+    <string name="textView_matchTele">Match:</string>
+    <string name="textView_deviceTele">Device:</string>
+    <string name="textView_upper_hubTeleHeader">Upper Hub</string>
+    <string name="textView_upperScoreTele">Score</string>
+    <string name="textView_scoreQuestionTele">Score</string>
+    <string name="checkBox_upperHubShotTele">Upper Hub</string>
+    <string name="checkBox_lowerHubShotTele">Lower Hub</string>
+    <string name="textView_endgameQuestion">Endgame</string>
+    <string name="textView_climbingQuestion">Climbing</string>
+    <string name="checkBox_lowRungClimbTele">Low</string>
+    <string name="checkBox_midRungClimbTele">Mid</string>
+    <string name="checkBox_highRungClimbTele">High</string>
+    <string name="checkBox_traversalRungClimbTele">Traversal</string>
+    <string name="textView_penaltiesQuestions">Penalties</string>
+    <string name="checkBox_foulInTele">Foul</string>
+    <string name="checkBox_techFoulInTele">Tech Foul</string>
+    <string name="checkBox_yellowCardInTele">Yellow Card</string>
+    <string name="checkBox_redCardInTele">Red Card</string>
+    <string name="checkBox_noShowTele">No Show</string>
+    <string name="checkBox_disqualificationTele">Disqualification</string>
+    <string name="textView_disabledQuestion">Disabled</string>
+    <string name="radioButton_whole_matchDisabled">Whole Match</string>
+    <string name="radioButton_half_matchDisabled">Half Match</string>
+    <string name="radioButton_end_matchDisabled">End Match</string>
+    <string name="button_end_matchScout">End Match</string>
+    <string name="textView_lower_hubTeleHeader">Lower Hub</string>
+    <string name="textView_lowerScoreTele">Score</string>
+
+    <!--Event Layout strings-->
+    <string name="textViewEventTeams">TextView</string>
+    <string name="textViewEventName">Example</string>
+    <string name="textViewEndDate">End Date</string>
+    <string name="textViewStartDate">Start Date</string>
+    <string name="textViewEventStart">TextView</string>
+    <string name="textViewEventEnd">TextView</string>
+    <string name="textViewRegistered">Registered Teams</string>
+
+    <!--Create Events Strings-->
+    <string name="editTextEventName">Event Name</string>
+    <string name="editTextEventStart">Event Start (1/15/2022)</string>
+    <string name="editTextEventEnd">Event End (1/15/2022)</string>
+    <string name="buttonCreateEvent">Create Event</string>
+
+    <!--Create Teams Strings-->
+    <string name="editTextTeamNumber">Team Number</string>
+    <string name="buttonCreateTeam">Create Team</string>
+    <string name="editTextTeamName">Team Name</string>
+
+    <!--Home Page Strings-->
+    <string name="textViewHome">Home</string>
+    <string name="textViewCurrentEvent">Current Event</string>
+    <string name="textViewTopMatch">Top Match</string>
+    <string name="textViewTopTeam">Top Team</string>
+
+    <!--Match Layout Strings-->
+    <string name="textViewBlueAlliance">Blue Alliance</string>
+    <string name="textViewRedAlliance">Red Alliance</string>
+    <string name="textViewRed1">TextView</string>
+    <string name="textViewBlue1">TextView</string>
+    <string name="textViewMatch">Match 50</string>
+    <string name="textViewScore">0 - 0</string>
+
+
 </resources>
