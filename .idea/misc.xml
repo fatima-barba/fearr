@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1705" />
+        <entry key="..\:/Users/Scouting/Documents/fearr/app/src/main/res/layout/content_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Scouting/Documents/fearr/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Scouting/Documents/fearr/app/src/main/res/menu/event_team_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Scouting/Documents/fearr/app/src/main/res/menu/pit_match_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Scouting/Documents/fearr/app/src/main/res/menu/tele_auto_bar.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/button.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/draw_ongoing_events.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/draw_pit_home.xml" value="0.1705" />
@@ -11,7 +15,6 @@
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/draw_top_team.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/home_foreground.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/ic_baseline_sport_kabiddi_24.xml" value="0.1705" />
-        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1705" />
@@ -32,7 +35,6 @@
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/icon_top_teams.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/side_nav_bar.xml" value="0.1705" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/drawable/text_box.xml" value="0.1705" />
-        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/app_bar.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/content_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/events_layout.xml" value="0.17552083333333332" />
@@ -52,8 +54,6 @@
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/fragment_strategy_board.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/match_layout.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/layout/nav_header_main.xml" value="0.17552083333333332" />
-        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/menu/event_team_bar.xml" value="0.17552083333333332" />
-        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/fear/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>
