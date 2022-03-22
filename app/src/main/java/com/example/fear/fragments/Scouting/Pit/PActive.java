@@ -1,4 +1,4 @@
-package com.example.fear.fragments;
+package com.example.fear.fragments.Scouting.Pit;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,8 +14,8 @@ import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 
 
-import org.robovikes.frost.R;
-import org.robovikes.frost.databinding.FragmentPitActiveBinding;
+import com.example.fear.R;
+import com.example.fear.databinding.FragmentPitActiveBinding;
 
 public class PActive {
 

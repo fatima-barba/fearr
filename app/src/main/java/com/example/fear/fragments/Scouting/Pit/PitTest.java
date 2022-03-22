@@ -1,4 +1,4 @@
-package com.example.fear.fragments;
+package com.example.fear.fragments.Scouting.Pit;
 
 import android.widget.CheckBox;
 

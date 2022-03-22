@@ -1,4 +1,4 @@
-package com.example.fear.fragments;
+package com.example.fear.fragments.Create;
 
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
@@ -16,8 +16,8 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-import org.robovikes.frost.R;
-import org.robovikes.frost.databinding.FragmentCreateEventsBinding;
+import com.example.fear.R;
+import com.example.fear.databinding.FragmentCreateEventsBinding;
 
 public class CreateEvents {
     private FragmentCreateEventsBinding binding;

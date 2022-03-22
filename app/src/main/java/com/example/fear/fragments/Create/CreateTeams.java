@@ -1,4 +1,4 @@
-package com.example.fear.fragments;
+package com.example.fear.fragments.Create;
 
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
